@@ -12,3 +12,7 @@ In each operational systems, the following command realizes the dictionary attac
 windows: stegbreaker PHOTO.JPG dictionary.txt
 
 linux: ./stegbreaker.sh PHOTO.JPG dictionary.txt 
+
+Author :
+--------
+You can contact me (Rodrigo Costa) via e-mail: rodccosta@hotmail.com
